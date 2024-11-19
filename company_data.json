@@ -1,0 +1,72 @@
+[
+    {
+        "company_name": "Lockheed Martin",
+        "tagline": "We specialize in defense tech, connecting customers with integrated solutions to ensure they stay ahead of ready.",
+        "industry": "Defense and Space Manufacturing",
+        "location": "Bethesda, MD",
+        "employees": "10K+ employees"
+    },
+    {
+        "company_name": "Ecovative - the mycelium technology company",
+        "tagline": "We grow better materials.",
+        "industry": "Biotechnology",
+        "location": "Green Island, New York",
+        "employees": "51-200 employees"
+    },
+    {
+        "company_name": "American Battery Technology Company",
+        "tagline": "Lithium-ion battery recycling, battery metal extraction technologies, & primary mineral resource development.",
+        "industry": "Wholesale Metals and Minerals",
+        "location": "Reno, NV",
+        "employees": "51-200 employees"
+    },
+    {
+        "company_name": "Ebttikar Technology Company",
+        "tagline": "Contact us: HRjobs@ebttikar.com",
+        "industry": "IT Services and IT Consulting",
+        "location": "Riyadh, Riyadh",
+        "employees": "1K-5K employees"
+    },
+    {
+        "company_name": "Verb Technology Company, Inc.",
+        "tagline": "Inspire Action",
+        "industry": "Software Development",
+        "location": "Newport Beach, California",
+        "employees": "11-50 employees"
+    },
+    {
+        "company_name": "FDS, A DXC Technology Company",
+        "tagline": null,
+        "industry": "IT Services and IT Consulting",
+        "location": "Aldershot",
+        "employees": "1K-5K employees"
+    },
+    {
+        "company_name": "Travel Technology Company",
+        "tagline": "TTC- Travel Technology Company",
+        "industry": "Information Services",
+        "location": "New york, New york",
+        "employees": "2-10 employees"
+    },
+    {
+        "company_name": "Advanced Technology Company",
+        "tagline": "The leading end-to-end total healthcare and environmental solutions provider",
+        "industry": "Medical Device",
+        "location": "Salmiya, Hawalli",
+        "employees": "1K-5K employees"
+    },
+    {
+        "company_name": "Outcome Logix ( A Tech 50 Finalist company 2022, by Pittsburgh Technology Council )",
+        "tagline": "Accelerating Vision to Outcome",
+        "industry": "IT Services and IT Consulting",
+        "location": "Pittsburgh, PA",
+        "employees": "11-50 employees"
+    },
+    {
+        "company_name": "Advanced Oilfield Technology Company LLC",
+        "tagline": "AOTC is a leading Repair & Maintenance \"ONE STOP SOLUTION\" provider.",
+        "industry": "Oil and Gas",
+        "location": "Muscat",
+        "employees": "501-1K employees"
+    }
+]
